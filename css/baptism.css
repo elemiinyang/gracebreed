@@ -1,0 +1,29 @@
+.history1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(images/historypage.jpg) !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.history1>h4{
+    font-family: 'Lato', sans-serif !important;
+}
+.history2 h2,h3{
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 800;
+}
+.history2 h3{
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 800px;
+    font-style: italic;
+}
+
+.history2 {
+    /* background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg_banner1.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.slideHistory .display-5 {
+    text-transform: uppercase;
+    color: #fff;
+}
